@@ -1,0 +1,32 @@
+# AI 맛집 컨시어지 — 카카오맵 기반
+
+# Web Framework
+fastapi==0.156.4
+uvicorn==0.54.0
+pydantic==2.14.1
+
+# HTTP Client
+httpx==0.28.1
+requests==2.34.2
+
+# Environment
+python-dotenv==1.2.4
+
+# LangChain / LLM
+langchain-core==1.6.11
+langchain-aws==1.9.0
+
+# LangGraph
+langgraph==1.2.15
+langgraph-checkpoint-sqlite==3.1.2
+
+# MCP
+mcp==1.30.0
+fastmcp==4.1.3
+langchain-mcp-adapters==0.3.2
+
+# Utilities
+typing-extensions==4.16.0
+
+# Test
+pytest==9.1.1
